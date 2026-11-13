@@ -1,0 +1,14 @@
+{
+  "name": "annapurna-sharing-spoon",
+  "version": "1.0.0",
+  "description": "One-page food donation website with Express and MySQL backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mysql2": "^3.24.6"
+  }
+}
